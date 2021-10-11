@@ -8,7 +8,7 @@ Status: Em desenvolvimento
 + Python Win32 API 
 + Python PyAutoGUI
 + Python IMAGEGRAB.GRAB
-+ Python 
++ Bypass no anticheat XIGNCODE3
 
 ## Anotaçoes 
 
